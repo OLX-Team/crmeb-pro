@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "佣金排行",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "empty-page": "/components/emptyPage",
+    "authorize": "/components/Authorize"
+  }
+}

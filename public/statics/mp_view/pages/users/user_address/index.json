@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "添加地址",
+  "usingComponents": {
+    "area-window": "/components/areaWindow/index",
+    "authorize": "/components/Authorize",
+    "home": "/components/home/index"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "优惠活动",
+  "usingComponents": {
+    "count-down": "/components/countDown/index",
+    "gift-goods": "/components/giftGoods/index",
+    "home": "/components/home/index"
+  }
+}

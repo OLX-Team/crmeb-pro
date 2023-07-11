@@ -1,0 +1,17 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "zb-code": "/components/zb-code/zb-code",
+    "store-lis": "/components/storeLis/index",
+    "product-con-swiper": "/components/productConSwiper/index",
+    "product-window": "/components/productWindow/index",
+    "user-evaluation": "/components/userEvaluation/index",
+    "kefu-icon": "/components/kefuIcon/index",
+    "cus-preview-img": "/components/cusPreviewImg/index",
+    "jyf-parser": "/components/mp-html/mp-html",
+    "count-down": "/components/countDown/index",
+    "home-list": "/components/homeList/index",
+    "authorize": "/components/Authorize"
+  }
+}

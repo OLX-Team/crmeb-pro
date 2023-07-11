@@ -1,0 +1,119 @@
+/**
+ * 按钮的点击动画效果,2018年1月12日09:36:48
+ **/
+.click {
+	-webkit-transition: -webkit-box-shadow .8s;
+	transition: box-shadow .8s;
+}
+
+.click {
+	-webkit-transition-timing-function: cubic-bezier(0.6, 4, 0.3, 0.8);
+	transition-timing-function: cubic-bezier(0.6, 4, 0.3, 0.8);
+	-webkit-animation: gelatine 0.5s;
+	animation: gelatine 1s;
+	animation-iteration-count: infinite;
+	/* -webkit-box-shadow: 0 0 0 2px #cff09e, 0 0 0 4px #ff0364;
+  box-shadow: 0 0 0 2px #cff09e, 0 0 0 4px #ff0364;
+  -webkit-transition-timing-function: cubic-bezier(0.6, 4, 0.3, 0.8);
+  transition-timing-function: cubic-bezier(0.6, 4, 0.3, 0.8);
+  -webkit-animation: gelatine 0.5s 1;
+  animation: gelatine 0.5s 1; */
+}
+
+.click {
+	-webkit-transition-duration: 0;
+	transition-duration: 0;
+}
+
+/**
+ * $keyframes \ gelatine 
+ **/
+@keyframes gelatine {
+
+	from,
+	to {
+		-webkit-transform: scale(1);
+		transform: scale(1);
+	}
+
+	25% {
+		-webkit-transform: scale(0.5);
+		transform: scale(0.8);
+	}
+
+	50% {
+		-webkit-transform: scale(1.5);
+		transform: scale(1.2);
+	}
+
+	75% {
+		-webkit-transform: scale(0.95);
+		transform: scale(0.95);
+	}
+
+	from,
+	to {
+		-webkit-transform: scale(1);
+		transform: scale(1);
+	}
+
+	25% {
+		-webkit-transform: scale(0.8);
+		transform: scale(0.8);
+	}
+
+	50% {
+		-webkit-transform: scale(1);
+		transform: scale(1);
+	}
+
+	75% {
+		-webkit-transform: scale(0.8);
+		transform: scale(0.8);
+	}
+}
+
+@-webkit-keyframes gelatine {
+
+	from,
+	to {
+		-webkit-transform: scale(1);
+		transform: scale(1);
+	}
+
+	25% {
+		-webkit-transform: scale(0.5);
+		transform: scale(0.8);
+	}
+
+	50% {
+		-webkit-transform: scale(1.5);
+		transform: scale(1.2);
+	}
+
+	75% {
+		-webkit-transform: scale(0.95);
+		transform: scale(0.95);
+	}
+
+	from,
+	to {
+		-webkit-transform: scale(1);
+		transform: scale(1);
+	}
+
+	25% {
+		-webkit-transform: scale(0.8);
+		transform: scale(0.8);
+	}
+
+	50% {
+		-webkit-transform: scale(1);
+		transform: scale(1);
+	}
+
+	75% {
+		-webkit-transform: scale(0.8);
+		transform: scale(0.8);
+	}
+}

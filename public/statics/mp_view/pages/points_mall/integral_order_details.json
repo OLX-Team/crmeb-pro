@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "兑换订单详情",
+  "usingComponents": {
+    "home": "/components/home/index",
+    "custom-form": "/components/customForm/index",
+    "order-goods": "/components/orderGoods/index",
+    "authorize": "/components/Authorize"
+  }
+}

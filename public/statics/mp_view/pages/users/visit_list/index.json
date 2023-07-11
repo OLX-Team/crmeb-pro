@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "浏览记录",
+  "usingComponents": {
+    "recommend": "/components/recommend/index",
+    "authorize": "/components/Authorize",
+    "home": "/components/home/index"
+  }
+}

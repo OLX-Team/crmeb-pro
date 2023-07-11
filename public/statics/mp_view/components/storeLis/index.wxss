@@ -1,0 +1,1 @@
+.list{width:508rpx;margin-left:28rpx}.list .item{font-size:26rpx;color:#333}.list .item .iconfont{font-size:30rpx;margin-right:10rpx;color:#333}.list .item .address{font-size:22rpx;margin-top:10rpx}.list .item .address .spot{margin:0 20rpx}

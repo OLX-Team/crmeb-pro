@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "套餐列表",
+  "usingComponents": {
+    "product-window": "/pages/goods_details/productWindow"
+  }
+}

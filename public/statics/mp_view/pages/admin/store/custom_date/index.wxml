@@ -1,0 +1,1 @@
+<view class="data-v-487f7da0"><uni-calendar vue-id="3992e3de-1" range="{{true}}" data-event-opts="{{[['^change',[['change']]]]}}" bind:change="__e" class="data-v-487f7da0" bind:__l="__l"></uni-calendar><navigator class="back data-v-487f7da0" open-type="navigateBack" hover-class="none">取消</navigator></view>

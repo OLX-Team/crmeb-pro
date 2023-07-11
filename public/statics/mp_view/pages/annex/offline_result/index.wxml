@@ -1,0 +1,1 @@
+<view class="data-v-33f7c6e3"><view class="result data-v-33f7c6e3"><view class="image-wrap data-v-33f7c6e3"><image class="image data-v-33f7c6e3" src="{{imgHost+'/statics/images/offline-result.png'}}"></image></view><view class="text data-v-33f7c6e3">支付成功</view></view><navigator class="link data-v-33f7c6e3" url="/pages/index/index" open-type="switchTab">进入商城</navigator></view>

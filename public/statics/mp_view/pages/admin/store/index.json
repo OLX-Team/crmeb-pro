@@ -1,0 +1,9 @@
+{
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#333333",
+  "navigationBarTitleText": "门店中心",
+  "usingComponents": {
+    "loading": "/components/Loading/index",
+    "home": "/components/home/index"
+  }
+}

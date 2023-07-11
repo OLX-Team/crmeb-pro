@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "product-window": "/components/productWindow/index",
+    "good-class": "/components/goodClass/index",
+    "cart-list": "/components/cartList/index"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "订单详情",
+  "usingComponents": {
+    "price-change": "/components/PriceChange/index",
+    "custom-form": "/components/customForm/index"
+  }
+}

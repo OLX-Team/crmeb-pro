@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "订单详情",
+  "usingComponents": {
+    "w-qrcode": "/uni_modules/wmf-code/components/w-qrcode/index",
+    "payment": "/components/payment/index",
+    "home": "/components/home/index",
+    "invoice-picker": "/components/invoicePicker/index",
+    "invoice-modal": "/components/invoiceModal/index",
+    "order-goods": "/components/orderGoods/index",
+    "custom-form": "/components/customForm/index",
+    "authorize": "/components/Authorize"
+  }
+}

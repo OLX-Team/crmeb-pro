@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "我的推广",
+  "navigationBarTextStyle": "black",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "home": "/components/home/index",
+    "commission": "/pages/users/user_spread_user/components/commission",
+    "order": "/pages/users/user_spread_user/components/order",
+    "promoter": "/pages/users/user_spread_user/components/promoter",
+    "task": "/pages/users/user_spread_user/components/task"
+  }
+}

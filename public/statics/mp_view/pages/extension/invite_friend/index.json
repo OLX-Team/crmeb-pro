@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "邀请好友",
+  "usingComponents": {
+    "show-box": "/pages/extension/components/showbox",
+    "notice-bar": "/pages/extension/components/noticeBar",
+    "home": "/components/home/index"
+  }
+}

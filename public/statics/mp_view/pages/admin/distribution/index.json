@@ -1,0 +1,8 @@
+{
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#333333",
+  "navigationBarTitleText": "配送员",
+  "usingComponents": {
+    "loading": "/components/Loading/index"
+  }
+}

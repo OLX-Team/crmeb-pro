@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "扫描结果详情",
+  "usingComponents": {
+    "write-off-switching": "/components/writeOffSwitching/index"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "数据详情",
+  "usingComponents": {
+    "uni-calendar": "/components/uni-calendar/uni-calendar",
+    "loading": "/components/Loading/index"
+  }
+}
